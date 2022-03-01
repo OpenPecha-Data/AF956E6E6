@@ -1,0 +1,13 @@
+segment_sources:
+  PC6F38881:
+    type: origin_type
+    relation: translation
+    language: bo
+  PF7FFBF86:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b4a8e7df841342f7a23a5cfcc0c5fcb7:
+    PC6F38881: 8ed0162583e446de9b69aa4a3f7a7f9f
+    PF7FFBF86: b157cd5059554e4fb536ff356fc8d76a
